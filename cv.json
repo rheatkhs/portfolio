@@ -2,18 +2,18 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
+    "name": "Rhea Takahashi",
+    "label": "Front-End Developer",
     "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "email": "rheatkhs@gmail.com",
+    "url": "https://www.rheatkhs.dev",
+    "summary": "Born in 2003, I primarily work with TypeScript and JavaScript for front-end development, and enjoy working with various technologies.",
     "theme": "red",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Pekalongan",
+      "city": "Central Java",
+      "countryCode": "ID",
+      "region": "Indonesia"
     },
     "profiles": [
       {
