@@ -2,9 +2,9 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "Rhea Takahashi",
+    "name": "Febiadi Wisnu Akbar",
     "label": "Front-End Developer",
-    "image": "/avatar2.png",
+    "image": "/avatar.png",
     "email": "rheatkhs@gmail.com",
     "url": "https://www.rheatkhs.dev",
     "summary": "Born in 2003, I primarily work with TypeScript and JavaScript for front-end development, and enjoy working with various technologies.",
@@ -17,28 +17,19 @@
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
-      },
-      {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "Rhea Takahashi",
+        "url": "https://github.com/rheatkhs"
+      },
+      {
+        "network": "Instagram",
+        "icon": "ri:instagram-line",
+        "username": "fbiakbr",
+        "url": "https://instagram.com/fbiakbr"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
+    
   },
   "images": {
     "intro": "Photography is the art of light, and images are the contours of memory.",
@@ -67,12 +58,12 @@
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "institution": "Institut Widya Pratama Pekalongan",
+      "url": "https://www.stmik-wp.ac.id/",
+      "area": "Information Technology",
+      "studyType": "College student",
+      "startDate": "2020-9-01",
+      "endDate": "2024-11-19"
     }
   ],
   "certificates": [
@@ -91,70 +82,56 @@
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
+      "name": "OFFTHEGRID Development Team",
+      "position": "Front-End Developer",
+      "location_type": "On-site",
+      "location": "ID",
+      "url": "https://offthegr.id",
       "startDate": "2022-06-01",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "summary": "Developing high-availability front-end projects.",
       "highlights": [
         "Enhanced internal workflow efficiency by 30%."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Developed and optimized user interfaces using JavaScript framework."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Reduced page load time by 30% through code optimization."
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
+        "JavaScript": "simple-icons:javascript",
         "Next.js": "ri:nextjs-fill",
         "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
+        "Vue": "mdi:vuejs",
+        "MongoDB": "simple-icons:mongodb",
         "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "GitHub": "mdi:github"
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "name": "Institut Widya Pratama Pekalongan",
+      "position": "IT Support",
+      "location_type": "On-site",
+      "location": "ID",
+      "url": "https://www.stmik-wp.ac.id/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-02-11",
+      "summary": "Optimized an organization’s technology infrastructure.",
       "highlights": [
-        "Completed 95% of project content."
+        "Maintained network infrastructure."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Diagnosed and resolved technical problems.",
+        "Manage IT inventory, including hardware and software licenses."
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Improved network performance by upgrading infrastructure components."
       ],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "Microsoft Azure": "mdi:microsoft-azure",
+        "TeamViewer": "mdi:teamviewer",
+        "Trello": "mdi:trello"
       }
     }
   ],
@@ -512,23 +489,7 @@
         "🚀 100% open source, fully based on Cloudflare."
       ],
       "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
-    },
-    {
-      "name": "Riddle Town Hunt 2",
-      "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
-      },
-      "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
-      "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
-      ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "github": ""
     }
   ]
 }
