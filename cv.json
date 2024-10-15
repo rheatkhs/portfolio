@@ -474,21 +474,74 @@
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Tuition Fee Payment",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://i.postimg.cc/4J1k4YzG/LOGIN.png",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://i.postimg.cc/4J1k4YzG/LOGIN.png"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "Provides an efficient and user-friendly platform for students and parents to manage and pay educational fees",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "💳 Tap-to-Pay Functionality",
+        "🔔 Automated Fee Reminders",
+        "🔐 Secure Payment Processing",
+        "📊 Data Analytics and Reporting"
       ],
-      "url": "https://what-the-fuck.sbs",
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Laboratory Usage Reporting",
+      "image": {
+        "url": "https://i.postimg.cc/jdMSmMZW/image.png",
+        "position": "container",
+        "dark": "https://i.postimg.cc/jdMSmMZW/image.png"
+      },
+      "isActive": true,
+      "description": "Enables researchers and lab managers to log usage data in real time, facilitating accurate tracking of equipment availability and usage patterns",
+      "highlights": [
+        "⌛ Real-Time Usage Logging",
+        "🔔 Automated Reporting",
+        "📑 Data Export Options",
+        "🔎 Search and Filter Functionality"
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Charitable Payment System",
+      "image": {
+        "url": "https://i.postimg.cc/kXM48Sg9/image.png",
+        "position": "container",
+        "dark": "https://i.postimg.cc/kXM48Sg9/image.png"
+      },
+      "isActive": true,
+      "description": "Innovative platform designed to facilitate and manage donations for various charitable causes",
+      "highlights": [
+        "💸 Donation Tracking",
+        "🔐 Secure Payment Processing",
+        "📑 Receipt Generation",
+        "📊 Impact Reporting"
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Food Ordering Delegation System",
+      "image": {
+        "url": "https://i.postimg.cc/P5Rscs4P/image.png",
+        "position": "container",
+        "dark": "https://i.postimg.cc/P5Rscs4P/image.png"
+      },
+      "isActive": true,
+      "description": "Simplify the process of ordering food, especially in communal settings, enhancing convenience and ensuring that everyone can enjoy their favorite meals without the hassle of individual ordering",
+      "highlights": [
+        "👥 Order Delegation",
+        "📚 Group Ordering",
+        "📝 Order History"
+      ],
+      "url": "",
       "github": ""
     }
   ]
