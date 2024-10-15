@@ -32,27 +32,27 @@
     
   },
   "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "intro": "In every frame, a story unfolds. Whispers of life in colors bold.",
     "list": [
       {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+        "image": "https://i.postimg.cc/Zndr0NMh/2023-08-09-081514887.jpg",
+        "alt": "A kaleidoscope of colors, a thirst-quenching array.",
+        "desc": "A kaleidoscope of colors, a thirst-quenching array."
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
+        "image": "https://i.postimg.cc/RVSyYQqY/Config-by-Andro-Gcam-10-Jul-18-52-i-Phone-Color-V-4-jpeg-by-Andro-Gcam.jpg",
+        "alt": "Illuminating the path, guiding the way.",
+        "desc": "Illuminating the path, guiding the way."
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
+        "image": "https://i.postimg.cc/25kTCv1K/IMG-20240516-093653.jpg",
+        "alt": "A moment of pause, to cherish and behold.",
+        "desc": "A moment of pause, to cherish and behold."
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
+        "image": "https://i.postimg.cc/BQ7nmCJS/IMG-20240927-163937.jpg",
+        "alt": "Each item a puzzle, a story untold.",
+        "desc": "Each item a puzzle, a story untold."
       }
     ]
   },
@@ -68,16 +68,34 @@
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
+      "name": "Artificial Intelligence Fundamentals",
+      "date": "2024-09-08",
       "url": "",
-      "issuer": "Myself"
+      "issuer": "Great Learning Academy"
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
+      "name": "Open Source, Open Learning",
+      "date": "2021-03-27",
       "url": "",
-      "issuer": "Tencent Cloud"
+      "issuer": "Dinus Open Source Community (DOSCOM)"
+    },
+    {
+      "name": "Baparekraf Developer Day 2020",
+      "date": "2020-07-18",
+      "url": "",
+      "issuer": "Dicoding Indonesia"
+    },
+    {
+      "name": "Android Developer Roadmap",
+      "date": "2020-07-19",
+      "url": "",
+      "issuer": "Dicoding Indonesia"
+    },
+    {
+      "name": "IDCamp 2019",
+      "date": "2020-06-18",
+      "url": "",
+      "issuer": "Dicoding Indonesia"
     }
   ],
   "work": [
@@ -286,16 +304,6 @@
       ]
     },
     {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
       "name": "Vite",
       "icon": "simple-icons:vite",
       "level": "Intermediate",
@@ -303,25 +311,6 @@
         "Web Development",
         "Frontend",
         "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
       ]
     },
     {
@@ -356,52 +345,6 @@
       ]
     },
     {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
       "name": "Linux",
       "icon": "simple-icons:linux",
       "level": "Intermediate",
@@ -428,28 +371,11 @@
         "Serverless",
         "Static Site Hosting"
       ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "Indonesia",
       "fluency": "Native speaker"
     },
     {
@@ -468,7 +394,7 @@
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "Febiadi Wisnu Akbar",
       "reference": "Reference…"
     }
   ],
@@ -505,41 +431,6 @@
         "🔔 Automated Reporting",
         "📑 Data Export Options",
         "🔎 Search and Filter Functionality"
-      ],
-      "url": "",
-      "github": ""
-    },
-    {
-      "name": "Charitable Payment System",
-      "image": {
-        "url": "https://i.postimg.cc/kXM48Sg9/image.png",
-        "position": "container",
-        "dark": "https://i.postimg.cc/kXM48Sg9/image.png"
-      },
-      "isActive": true,
-      "description": "Innovative platform designed to facilitate and manage donations for various charitable causes",
-      "highlights": [
-        "💸 Donation Tracking",
-        "🔐 Secure Payment Processing",
-        "📑 Receipt Generation",
-        "📊 Impact Reporting"
-      ],
-      "url": "",
-      "github": ""
-    },
-    {
-      "name": "Food Ordering Delegation System",
-      "image": {
-        "url": "https://i.postimg.cc/P5Rscs4P/image.png",
-        "position": "container",
-        "dark": "https://i.postimg.cc/P5Rscs4P/image.png"
-      },
-      "isActive": true,
-      "description": "Simplify the process of ordering food, especially in communal settings, enhancing convenience and ensuring that everyone can enjoy their favorite meals without the hassle of individual ordering",
-      "highlights": [
-        "👥 Order Delegation",
-        "📚 Group Ordering",
-        "📝 Order History"
       ],
       "url": "",
       "github": ""
