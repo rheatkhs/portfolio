@@ -20,7 +20,7 @@
         "network": "GitHub",
         "icon": "mdi:github",
         "username": "Rhea Takahashi",
-        "url": "https://github.com/rheatkhs"
+        "url": "https://github.com/fbiakbr"
       },
       {
         "network": "Instagram",
@@ -104,7 +104,7 @@
       "position": "Front-End Developer",
       "location_type": "On-site",
       "location": "ID",
-      "url": "https://offthegr.id",
+      "url": "https://offthegrid.vercel.app/",
       "startDate": "2022-06-01",
       "endDate": null,
       "summary": "Developing high-availability front-end projects.",
